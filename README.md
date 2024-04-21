@@ -1,3 +1,6 @@
+![image](https://github.com/vyakhyarastogi/vyakhyarastogi/assets/111945663/124e2c9c-409a-443f-803f-07388738cf19)
+
+
 <h1 align="center">Hi 👋, I'm Vyakhya Rastogi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
